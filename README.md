@@ -1,2 +1,1 @@
-# scripts
-unreleased and unfinished scripts im making
+random scripts
